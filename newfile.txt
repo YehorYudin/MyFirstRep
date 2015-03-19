@@ -1,2 +1,2 @@
 this is new file
-and it was edited localy
+and it was edited localy in newbranch
